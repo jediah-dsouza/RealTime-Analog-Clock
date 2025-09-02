@@ -1,4 +1,4 @@
-#🕒 Analog Clock
+# 🕒 Analog Clock
 
 A simple and elegant analog clock built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates the use of DOM manipulation and CSS transforms to simulate the movement of clock hands in real-time.
 
