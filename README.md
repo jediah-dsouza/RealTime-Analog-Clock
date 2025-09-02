@@ -4,7 +4,7 @@ A simple and elegant analog clock built using **HTML**, **CSS**, and **JavaScrip
 
 ---
 
- #🛠️ Features
+ # 🛠️ Features
 
 - Real-time analog clock
 - Smooth hand animations using CSS `transform` and `transition`
@@ -13,7 +13,7 @@ A simple and elegant analog clock built using **HTML**, **CSS**, and **JavaScrip
 
 ---
 
-#📁 Project Structure
+# 📁 Project Structure
 
 ```
 Analog Clock/
@@ -23,7 +23,7 @@ Analog Clock/
 └── README.md
 ```
 ---
-#📦 Installation & Setup
+# 📦 Installation & Setup
 
 To run this project locally:
 
@@ -35,7 +35,7 @@ To run this project locally:
 2. Open `index.html` in your browser.
 
 ---
- #🙌 Acknowledgements
+ # 🙌 Acknowledgements
 
 Inspired by traditional analog clocks and built as a front-end mini project for learning and practice.
 
